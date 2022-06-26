@@ -138,8 +138,6 @@ GameObject:
   - component: {fileID: 395670751}
   - component: {fileID: 395670753}
   - component: {fileID: 395670754}
-  - component: {fileID: 395670755}
-  - component: {fileID: 395670756}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -213,7 +211,7 @@ SpriteRenderer:
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.32, y: 0.32}
+  m_Size: {x: 2, y: 2}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -291,33 +289,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 395670747}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3d2e7c39f15457d4b8241e11450c863a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  rb: {fileID: 0}
-  anim: {fileID: 0}
---- !u!114 &395670755
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 395670747}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cdbc732132492e44ebd559c34b40901c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &395670756
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 395670747}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a3c34f9dd2e9ae445a4d769929e6744e, type: 3}
+  m_Script: {fileID: 11500000, guid: b1dfb3a5beb901e4f94b123e857a8d1c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &519420028

@@ -1,25 +1,34 @@
 fileFormatVersion: 2
-guid: 6dd5847078902f24683108738a75505b
+guid: a3cb5e79ae7310947bac9e256a8abd29
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1137805138824052146
-    second: Jab_0
+      213: -3303693143889312035
+    second: Migi Hook_0
   - first:
-      213: -227019496086430530
-    second: Jab_1
+      213: 514034822060198393
+    second: Migi Hook_1
   - first:
-      213: -3162778974338740330
-    second: Jab_2
+      213: -781113599674283134
+    second: Migi Hook_2
   - first:
-      213: -4123490879348563133
-    second: Jab_3
+      213: -3172701758682363889
+    second: Migi Hook_3
   - first:
-      213: 7964509938292078108
-    second: Jab_4
+      213: 8529632610418343272
+    second: Migi Hook_4
   - first:
-      213: 2350222999022308070
-    second: Jab_5
+      213: 2279567760019045550
+    second: Migi Hook_5
+  - first:
+      213: -4451500572859312881
+    second: Migi Hook_6
+  - first:
+      213: 1249671311757439435
+    second: Migi Hook_7
+  - first:
+      213: 4449737562662316443
+    second: Migi Hook_8
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -121,7 +130,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Jab_0
+      name: Migi Hook_0
       rect:
         serializedVersion: 2
         x: 0
@@ -135,14 +144,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2bdb833debb4acf00800000000000000
-      internalID: 1137805138824052146
+      spriteID: dd6859fd69ce622d0800000000000000
+      internalID: -3303693143889312035
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jab_1
+      name: Migi Hook_1
       rect:
         serializedVersion: 2
         x: 32
@@ -156,14 +165,35 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ebc1eaa98f679dcf0800000000000000
-      internalID: -227019496086430530
+      spriteID: 9f9441b72f7322700800000000000000
+      internalID: 514034822060198393
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jab_2
+      name: Migi Hook_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b0032d15de825f0800000000000000
+      internalID: -781113599674283134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Migi Hook_3
       rect:
         serializedVersion: 2
         x: 0
@@ -177,14 +207,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 69f077ba74d8b14d0800000000000000
-      internalID: -3162778974338740330
+      spriteID: f080b776f8c48f3d0800000000000000
+      internalID: -3172701758682363889
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jab_3
+      name: Migi Hook_4
       rect:
         serializedVersion: 2
         x: 32
@@ -198,14 +228,35 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 343add574ea66c6c0800000000000000
-      internalID: -4123490879348563133
+      spriteID: 86db290daa75f5670800000000000000
+      internalID: 8529632610418343272
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jab_4
+      name: Migi Hook_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac3e51dcc6a2af10800000000000000
+      internalID: 2279567760019045550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Migi Hook_6
       rect:
         serializedVersion: 2
         x: 0
@@ -219,14 +270,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c16b7f1579f978e60800000000000000
-      internalID: 7964509938292078108
+      spriteID: f05d54560d71932c0800000000000000
+      internalID: -4451500572859312881
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jab_5
+      name: Migi Hook_7
       rect:
         serializedVersion: 2
         x: 32
@@ -240,8 +291,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6ea8da79d5bad9020800000000000000
-      internalID: 2350222999022308070
+      spriteID: bc17c4fdf69b75110800000000000000
+      internalID: 1249671311757439435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Migi Hook_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99233eccb4a0cd30800000000000000
+      internalID: 4449737562662316443
       vertices: []
       indices: 
       edges: []
